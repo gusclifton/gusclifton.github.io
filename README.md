@@ -1,28 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Resume for James (Gus) Clifton</title>
-<style>
-body {
-  font-family: sans-serif;
-  margin:      0 auto;
-  max-width:   50em;
-  line-height: 1.6;
-  padding:     1em;
-  color:     #333;
-}
-h1, h2, h3 {
-  margin-top:  1em;
-  padding-top: 1em;
-}
-</style>
-</head>
-<body>
 <h1>Resume for James (Gus) Clifton</h1>
 
-<p><a href="mailto:james.robert.clifton@gmail.com">james.robert.clifton@gmail.com</a>
-<br /><a href="http://plaza.ufl.edu/elwood">http://plaza.ufl.edu/elwood</a>
+<p><a href="mailto:gusclifton@gmail.com">gusclifton@gmail.com</a>
 <br />Gainesville FL USA
 </p>
 
@@ -140,18 +118,6 @@ h1, h2, h3 {
     <li>Introduction to Computer Organization, CDA 3101</li>
     <li>UNIX System Administration, COP 4343</li>
   </ul>
-</ul>
-
-<h2>Computer skills</h2>
-
-<ul>
-  <li>C, Java, C#, Perl</li>
-  <li>HTML, CSS, JavaScript</li>
-  <li>WordPress, DotNetNuke, terminalFour</li>
-  <li>Bash, PowerShell</li>
-  <li>SQL Server, MySQL</li>
-  <li>Apache, IIS</li>
-  <li>Eclipse, Visual Studio, VSCode, Dreamweaver/Contribute</li>
 </ul>
 
 <hr>
