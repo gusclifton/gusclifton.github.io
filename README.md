@@ -31,7 +31,6 @@
       <li>work with other departments within the library to provide support;</li>
       <li>assist with testing and deployment of special applications</li>
     </ul>
-  </li>
   <li>Provide training, instruction and tools for maintaining library websites:</li>
     <ul>
       <li>instruct staff about various desktop and web-based software packages;</li>
@@ -121,5 +120,3 @@
 </ul>
 
 <hr>
-</body>
-</html>
